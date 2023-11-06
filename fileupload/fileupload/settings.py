@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'shirish137$upload',
-        'HOST':'mysql.server',
+        'HOST':'shirish137.mysql.server',
         'USER':'shirish137',
         'PASSWORD':'Alka@137',
       
