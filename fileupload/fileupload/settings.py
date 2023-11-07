@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'fileupload.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME':'shirish137$upload',
-        'HOST':'shirish137.mysql.server',
-        'USER':'shirish137',
-        'PASSWORD':'Alka@137',
+        'NAME':'upload',
+        'HOST':'localhost',
+        'USER':'root',
+        'PASSWORD':'',
       
     }
 }
